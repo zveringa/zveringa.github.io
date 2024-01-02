@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+/* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+font-family: "Roboto", sans-serif;
+font-size: 14px;
+line-height: 20px;
+font-weight: normal;
+background-color: #ddd;
+color: #0f141e;
+/* font-style: italic; */
+/* letter-spacing: 1px; */
+/* word-spacing: 20px; */
+}
+.info-text p {
+  color: #555;
+  font-style: italic;
+}
+#header {
+font-style:normal;
+}

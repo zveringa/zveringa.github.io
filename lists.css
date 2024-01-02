@@ -1,0 +1,23 @@
+.list {
+  margin: 0;
+  padding: 0;
+  list-style:circle;
+}
+.list li {
+  margin-bottom: 8px;
+  border-bottom: 1px solid;
+ }
+ .table {
+  width: 100%;
+ }
+  .table  th {
+  text-align: left;
+  background-color: rgb(240, 172, 202);
+ }
+ .table  td {
+  text-align: left;
+
+ }
+ .table tr:nth-child(odd) {
+  background-color: rgb(221, 220, 220);
+ }
